@@ -1,6 +1,6 @@
 Forked from https://github.com/MeshJS/mesh -> extracted from packages/module/
 
-import with "@meshsdk/core": "github:stargazerlabs/mesh-react"
+import with `"@meshsdk/core": "github:stargazerlabs/mesh-react"`
 
 
 
